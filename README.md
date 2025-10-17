@@ -13,6 +13,8 @@
 | <img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/a8eb6ec9-d2cc-424d-a936-2958ad935167" /> | <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/8ea9c460-dff2-4412-8fc6-f73a9064be7b" /> | 
 |----|---------------------------------|
 
+---
+
 ## 📖 Overview
 This project implements an **interactive web scraping application** using the **Google Books API** to help users search, explore, and collect book data based on keywords.  
 Users can display book information in a structured HTML layout and save results in **CSV** or **JSON** format.
